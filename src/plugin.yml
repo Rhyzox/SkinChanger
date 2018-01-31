@@ -1,0 +1,7 @@
+name: SkinChanger
+main: me.rhyzox.skin.SkinChanger
+author: Rhyzox
+version: 1.0
+
+commands:
+  skin:
